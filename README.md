@@ -3,6 +3,11 @@ Project Title: The Rosary
 Description:
 The Rosary is a multi-page website designed to show my skills in coding. It allows users to know more about the Rosary, why it exists, and how to use it.
 
+Installation Instructions:
+- Open the repository from GitHub: https://github.com/Tamaleslol/The-Rosary
+- Download the zip.
+- Open the home.html file to view the website locally.
+
 Usage:
 - Click on the three lines to open the navigation bar with the navigation links.
 - Click on the x to close the navigation bar.
